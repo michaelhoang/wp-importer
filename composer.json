@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Mike\\": "includes/"
+        }
+    },
+    "require": {
+        "symfony/serializer": "5.4.29"
+    }
+}

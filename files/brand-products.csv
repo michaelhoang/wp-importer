@@ -1,0 +1,464 @@
+sku,brand
+TIM001,"Timjans Brygghus"
+BVK001,Bryggverket
+BVK002,Bryggverket
+NYN001,"Nynäshamns Ångbryggeri"
+NYN002,"Nynäshamns Ångbryggeri"
+BVK003,Bryggverket
+BVK004,Bryggverket
+BVK005,Bryggverket
+BVK006,Bryggverket
+BVK007,Bryggverket
+BVK008,Bryggverket
+BVK009,Bryggverket
+BVK010,Bryggverket
+BVK011,Bryggverket
+MAJ001,"Majornas Bryggeri"
+MAJ002,"Majornas Bryggeri"
+MAJ003,"Majornas Bryggeri"
+RRB001,Romrobban
+RRB002,Romrobban
+RRB003,Romrobban
+RRB004,Romrobban
+RRB008,Romrobban
+RRB009,Romrobban
+RRB005,Romrobban
+RRB010,Romrobban
+RRB006,Romrobban
+RRB007,Romrobban
+TIM002,"Timjans Brygghus"
+TIM003,"Timjans Brygghus"
+TIM004,"Timjans Brygghus"
+TIM005,"Timjans Brygghus"
+TIM006,"Timjans Brygghus"
+TIM007,"Timjans Brygghus"
+TIM008,"Timjans Brygghus"
+TIM009,"Timjans Brygghus"
+TIM010,"Timjans Brygghus"
+GIN001,"Gin Gin Destilleri"
+GIN002,"Gin Gin Destilleri"
+GIN003,"Gin Gin Destilleri"
+GIN004,"Gin Gin Destilleri"
+GIN005,"Gin Gin Destilleri"
+GIN006,"Gin Gin Destilleri"
+GIN007,"Gin Gin Destilleri"
+GIN008,"Gin Gin Destilleri"
+GIN009,"Gin Gin Destilleri"
+GIN010,"Gin Gin Destilleri"
+GIN011,"Gin Gin Destilleri"
+GIN012,"Gin Gin Destilleri"
+HOG001,"Höganäs Bryggeri"
+OLI001,"Oliver Twist"
+OLI002,"Oliver Twist"
+OLI003,"Oliver Twist"
+BBR001,"Boge Bränneri"
+BBR002,"Boge Bränneri"
+BBR003,"Boge Bränneri"
+BBR004,"Boge Bränneri"
+BBR005,"Boge Bränneri"
+BBR006,"Boge Bränneri"
+BBR007,"Boge Bränneri"
+KLO001,"Klocktornet Destilleri"
+KLO002,"Klocktornet Destilleri"
+JMT001,"Jämtlands Bryggeri"
+JMT002,"Jämtlands Bryggeri"
+JMT003,"Jämtlands Bryggeri"
+JMT004,"Jämtlands Bryggeri"
+JMT005,"Jämtlands Bryggeri"
+FIS001,"Fishtown Brewery"
+FIS002,"Fishtown Brewery"
+FIS003,"Fishtown Brewery"
+FIS004,"Fishtown Brewery"
+FIS005,"Fishtown Brewery"
+FIS006,"Fishtown Brewery"
+FIS007,"Fishtown Brewery"
+FIS008,"Fishtown Brewery"
+FJB001,Fjällbryggarna
+FJB002,Fjällbryggarna
+FJB003,Fjällbryggarna
+FJB004,Fjällbryggarna
+FJB005,Fjällbryggarna
+FJB006,Fjällbryggarna
+FJB007,Fjällbryggarna
+FJB008,Fjällbryggarna
+BEN001,"Benchwarmers Brewing Co"
+BEN002,"Benchwarmers Brewing Co"
+BEN003,"Benchwarmers Brewing Co"
+BEN004,"Benchwarmers Brewing Co"
+BEN005,"Benchwarmers Brewing Co"
+BEN006,"Benchwarmers Brewing Co"
+BEN007,"Benchwarmers Brewing Co"
+BEN008,"Benchwarmers Brewing Co"
+BEN009,"Benchwarmers Brewing Co"
+SNA001,"Snausarve Gårdsbryggeri"
+SNA002,"Snausarve Gårdsbryggeri"
+SNA003,"Snausarve Gårdsbryggeri"
+SNA004,"Snausarve Gårdsbryggeri"
+SNA005,"Snausarve Gårdsbryggeri"
+SNA006,"Snausarve Gårdsbryggeri"
+NYN003,"Nynäshamns Ångbryggeri"
+NYN004,"Nynäshamns Ångbryggeri"
+NYN005,"Nynäshamns Ångbryggeri"
+NYN006,"Nynäshamns Ångbryggeri"
+NYN007,"Nynäshamns Ångbryggeri"
+KLO003,"Klocktornet Destilleri"
+KLO004,"Klocktornet Destilleri"
+KLO005,"Klocktornet Destilleri"
+KLO006,"Klocktornet Destilleri"
+KLO007,"Klocktornet Destilleri"
+VAX001,"Växjö Ölfestival"
+JMT006,"Jämtlands Bryggeri"
+JMT007,"Jämtlands Bryggeri"
+FRD001,Fredultra
+FRD002,Fredultra
+FRD003,Fredultra
+FRD004,Fredultra
+FRD005,Fredultra
+FRD006,Fredultra
+APE001,"Apex Brewing Co"
+APE002,"Apex Brewing Co"
+GGB001,"Good Guys Brew"
+SOB001,"Sveriges Oberoende Bryggerier"
+MAJ004,"Majornas Bryggeri"
+SUB001,"Subbe Bryggeri"
+SUB002,"Subbe Bryggeri"
+SUB003,"Subbe Bryggeri"
+SUB004,"Subbe Bryggeri"
+PIN001,"The Pine Ridge Brewery"
+PIN002,"The Pine Ridge Brewery"
+PIN003,"The Pine Ridge Brewery"
+PIN004,"The Pine Ridge Brewery"
+PIN005,"The Pine Ridge Brewery"
+PIN006,"The Pine Ridge Brewery"
+PIN007,"The Pine Ridge Brewery"
+HOG002,"Höganäs Bryggeri"
+SUB005,"Subbe Bryggeri"
+BWR001,"Beer with Robert"
+BWR002,"Beer with Robert"
+BWR003,"Beer with Robert"
+BWR004,"Beer with Robert"
+BWR005,"Beer with Robert"
+BWR006,"Beer with Robert"
+BWR007,"Beer with Robert"
+MAJ005,"Majornas Bryggeri"
+MAJ006,"Majornas Bryggeri"
+MAJ007,"Majornas Bryggeri"
+MAJ008,"Majornas Bryggeri"
+MAJ009,"Majornas Bryggeri"
+MAJ010,"Majornas Bryggeri"
+MAJ011,"Majornas Bryggeri"
+MAJ012,"Majornas Bryggeri"
+MAJ013,"Majornas Bryggeri"
+MAJ014,"Majornas Bryggeri"
+FRI001,"Fria Kranar"
+FRI002,"Fria Kranar"
+PIN008,"The Pine Ridge Brewery"
+APE003,"Apex Brewing Co"
+APE004,"Apex Brewing Co"
+APE005,"Apex Brewing Co"
+SOB002,"Sveriges Oberoende Bryggerier"
+SOB003,"Sveriges Oberoende Bryggerier"
+SOB004,"Sveriges Oberoende Bryggerier"
+SOB005,"Sveriges Oberoende Bryggerier"
+SOB006,"Sveriges Oberoende Bryggerier"
+SOB007,"Sveriges Oberoende Bryggerier"
+HYL001,"Hyllie Bryggeri"
+HYL002,"Hyllie Bryggeri"
+HYL003,"Hyllie Bryggeri"
+HYL004,"Hyllie Bryggeri"
+HYL005,"Hyllie Bryggeri"
+JMT008,"Jämtlands Bryggeri"
+JMT009,"Jämtlands Bryggeri"
+JMT010,"Jämtlands Bryggeri"
+JMT011,"Jämtlands Bryggeri"
+JMT012,"Jämtlands Bryggeri"
+NYN008,"Nynäshamns Ångbryggeri"
+NYN009,"Nynäshamns Ångbryggeri"
+NYN010,"Nynäshamns Ångbryggeri"
+NYN011,"Nynäshamns Ångbryggeri"
+NYN012,"Nynäshamns Ångbryggeri"
+NYN013,"Nynäshamns Ångbryggeri"
+NYN014,"Nynäshamns Ångbryggeri"
+NYN015,"Nynäshamns Ångbryggeri"
+NYN016,"Nynäshamns Ångbryggeri"
+NYN017,"Nynäshamns Ångbryggeri"
+NYN018,"Nynäshamns Ångbryggeri"
+NYN019,"Nynäshamns Ångbryggeri"
+NYN020,"Nynäshamns Ångbryggeri"
+NYN021,"Nynäshamns Ångbryggeri"
+NYN022,"Nynäshamns Ångbryggeri"
+NYN023,"Nynäshamns Ångbryggeri"
+JMT013,"Jämtlands Bryggeri"
+JMT014,"Jämtlands Bryggeri"
+JMT015,"Jämtlands Bryggeri"
+JMT016,"Jämtlands Bryggeri"
+JMT017,"Jämtlands Bryggeri"
+JMT018,"Jämtlands Bryggeri"
+JMT019,"Jämtlands Bryggeri"
+JMT020,"Jämtlands Bryggeri"
+JMT021,"Jämtlands Bryggeri"
+JMT022,"Jämtlands Bryggeri"
+BOT001,"Bottenvikens Bryggeri"
+BOT002,"Bottenvikens Bryggeri"
+BOT003,"Bottenvikens Bryggeri"
+BOT004,"Bottenvikens Bryggeri"
+BOT005,"Bottenvikens Bryggeri"
+BOT006,"Bottenvikens Bryggeri"
+BOT007,"Bottenvikens Bryggeri"
+BOT008,"Bottenvikens Bryggeri"
+BOT009,"Bottenvikens Bryggeri"
+BOT010,"Bottenvikens Bryggeri"
+BOT011,"Bottenvikens Bryggeri"
+BOT012,"Bottenvikens Bryggeri"
+BOT013,"Bottenvikens Bryggeri"
+BOT014,"Bottenvikens Bryggeri"
+PKH001,"Prins Katts Hantverksöl"
+PKH002,"Prins Katts Hantverksöl"
+PKH003,"Prins Katts Hantverksöl"
+LAR001,"Wild and Sour Brewing Co"
+HOG003,"Höganäs Bryggeri"
+HOG004,"Höganäs Bryggeri"
+HOG005,"Höganäs Bryggeri"
+HOG006,"Höganäs Bryggeri"
+HOG007,"Höganäs Bryggeri"
+HOG008,"Höganäs Bryggeri"
+HOG009,"Höganäs Bryggeri"
+HOG010,"Höganäs Bryggeri"
+HOG011,"Höganäs Bryggeri"
+HOG012,"Höganäs Bryggeri"
+HOG013,"Höganäs Bryggeri"
+OLV001,Ölvärlden
+OLV002,Ölvärlden
+OLV003,Ölvärlden
+OLV004,Ölvärlden
+OLV005,Ölvärlden
+OLV006,Ölvärlden
+BZR001,"Binzer Beer"
+BZR002,"Binzer Beer"
+BZR003,"Binzer Beer"
+BZR004,"Binzer Beer"
+WID001,"Wild and Sour Brewing Co"
+WID002,"Wild and Sour Brewing Co"
+WID003,"Wild and Sour Brewing Co"
+BST001,Beerstudio
+BST002,Beerstudio
+BST003,Beerstudio
+GSB001,"Great Swedish Beer Festival"
+BRM001,Beerium
+ODD001,"Odd Island Brewing"
+BRM002,Beerium
+BRM003,Beerium
+BRM004,Beerium
+BRM005,Beerium
+HAL001,"Halmstad Brygghus"
+HAL002,"Halmstad Brygghus"
+HAL003,"Halmstad Brygghus"
+HAL004,"Halmstad Brygghus"
+HAL005,"Halmstad Brygghus"
+HAL006,"Halmstad Brygghus"
+RAJ001,RAJRAJ
+RAJ002,RAJRAJ
+RAJ003,RAJRAJ
+RAJ004,RAJRAJ
+RAJ005,RAJRAJ
+RAJ006,RAJRAJ
+ODD002,"Odd Island Brewing"
+ODD003,"Odd Island Brewing"
+ODD004,"Odd Island Brewing"
+BST004,Beerstudio
+ODD005,"Odd Island Brewing"
+ODD006,"Odd Island Brewing"
+ODD007,"Odd Island Brewing"
+ODD008,"Odd Island Brewing"
+ODD009,"Odd Island Brewing"
+BST005,Beerstudio
+BST006,Beerstudio
+ODD010,"Odd Island Brewing"
+ODD011,"Odd Island Brewing"
+ODD012,"Odd Island Brewing"
+ODD013,"Odd Island Brewing"
+BWG001,Brewgineers
+BWG002,Brewgineers
+BST007,Beerstudio
+BST008,Beerstudio
+BST009,Beerstudio
+BST010,Beerstudio
+BST011,Beerstudio
+BST012,Beerstudio
+SMO001,Smögenbryggarn
+SMO002,Smögenbryggarn
+SMO003,Smögenbryggarn
+SMO004,Smögenbryggarn
+BST013,Beerstudio
+BWG003,Brewgineers
+BWG004,Brewgineers
+BWG005,Brewgineers
+BWG006,Brewgineers
+BWG007,Brewgineers
+BWG008,Brewgineers
+BWG009,Brewgineers
+LAR002,"Lärjedalens Bryggeri"
+WID004,"Wild and Sour Brewing Co"
+BWG010,Brewgineers
+BWG011,Brewgineers
+BWG012,Brewgineers
+BWG013,Brewgineers
+BWG014,Brewgineers
+BWG015,Brewgineers
+LAR003,"Lärjedalens Bryggeri"
+WID005,"Wild and Sour Brewing Co"
+LAR004,"Lärjedalens Bryggeri"
+LAR005,"Lärjedalens Bryggeri"
+LAR006,"Lärjedalens Bryggeri"
+BWG016,Brewgineers
+BWG017,Brewgineers
+LAR007,"Lärjedalens Bryggeri"
+LAR008,"Lärjedalens Bryggeri"
+LAR009,"Lärjedalens Bryggeri"
+BWG018,Brewgineers
+BWG019,Brewgineers
+BWG020,Brewgineers
+BWG021,Brewgineers
+LAR010,"Lärjedalens Bryggeri"
+LAR011,"Lärjedalens Bryggeri"
+LAR012,"Lärjedalens Bryggeri"
+WID006,"Wild and Sour Brewing Co"
+WID007,"Wild and Sour Brewing Co"
+WID008,"Wild and Sour Brewing Co"
+WID009,"Wild and Sour Brewing Co"
+WID010,"Wild and Sour Brewing Co"
+WID011,"Wild and Sour Brewing Co"
+WID012,"Wild and Sour Brewing Co"
+WID013,"Wild and Sour Brewing Co"
+WID014,"Wild and Sour Brewing Co"
+SIG001,"Sigtuna Brygghus"
+SIG002,"Sigtuna Brygghus"
+SIG003,"Sigtuna Brygghus"
+SIG004,"Sigtuna Brygghus"
+SIG005,"Sigtuna Brygghus"
+SIG006,"Sigtuna Brygghus"
+FJF001,"Fjäderholmarnas Bryggeri"
+FJD002,"Fjäderholmarnas Bryggeri"
+FJD003,"Fjäderholmarnas Bryggeri"
+FJD004,"Fjäderholmarnas Bryggeri"
+FJD005,"Fjäderholmarnas Bryggeri"
+FJD006,"Fjäderholmarnas Bryggeri"
+FJD007,"Fjäderholmarnas Bryggeri"
+FJD008,"Fjäderholmarnas Bryggeri"
+FJD009,"Fjäderholmarnas Bryggeri"
+FJD010,"Fjäderholmarnas Bryggeri"
+BRE001,Brekeriet
+BRE002,Brekeriet
+BRE003,Brekeriet
+BRE004,Brekeriet
+AKI001,AKiA
+AKI002,AKiA
+BRE005,Brekeriet
+BRE006,Brekeriet
+BRE007,Brekeriet
+BRE008,Brekeriet
+BRE009,Brekeriet
+BRE010,Brekeriet
+BRE011,Brekeriet
+BRE012,Brekeriet
+BRE013,Brekeriet
+BRE014,Brekeriet
+BRE015,Brekeriet
+BRE016,Brekeriet
+BRE017,Brekeriet
+BRE018,Brekeriet
+BRE019,Brekeriet
+SIG007,"Sigtuna Brygghus"
+SIG008,"Sigtuna Brygghus"
+SIG009,"Sigtuna Brygghus"
+SIG010,"Sigtuna Brygghus"
+SIG011,"Sigtuna Brygghus"
+SIG012,"Sigtuna Brygghus"
+SIG013,"Sigtuna Brygghus"
+SIG014,"Sigtuna Brygghus"
+AKI003,AKiA
+COP001,Coppersmiths
+COP002,Coppersmiths
+COP003,Coppersmiths
+COP004,Coppersmiths
+COP005,Coppersmiths
+COP006,Coppersmiths
+COP007,Coppersmiths
+COP008,Coppersmiths
+AKI004,AKiA
+KLO008,"Klocktornet Destilleri"
+AKI005,AKiA
+AKI006,AKiA
+AKI007,AKiA
+PKB001,"PKLK Bryggeri"
+PKB002,"PKLK Bryggeri"
+BBB001,"Big Bone Brews"
+BBB002,"Big Bone Brews"
+PKB003,"PKLK Bryggeri"
+PKB004,"PKLK Bryggeri"
+PKB005,"PKLK Bryggeri"
+PKB006,"PKLK Bryggeri"
+BBB003,"Big Bone Brews"
+BBB004,"Big Bone Brews"
+BBB005,"Big Bone Brews"
+BBB006,"Big Bone Brews"
+BBB007,"Big Bone Brews"
+GGB002,"Good Guys Brew"
+GGB003,"Good Guys Brew"
+GGB004,"Good Guys Brew"
+GGB005,"Good Guys Brew"
+GGB006,"Good Guys Brew"
+GGB007,"Good Guys Brew"
+GGB008,"Good Guys Brew"
+GGB009,"Good Guys Brew"
+GGB010,"Good Guys Brew"
+GGB011,"Good Guys Brew"
+GGB012,"Good Guys Brew"
+ARE001,"Åre Bryggcompagni"
+ARE002,"Åre Bryggcompagni"
+ARE003,"Åre Bryggcompagni"
+ARE004,"Åre Bryggcompagni"
+FIN001,"Brygghuset Finn"
+FIN002,"Brygghuset Finn"
+FIN003,"Brygghuset Finn"
+FIN004,"Brygghuset Finn"
+FIN005,"Brygghuset Finn"
+BKW001,Brewkowski
+BKW002,Brewkowski
+BKW003,Brewkowski
+BKW004,Brewkowski
+BKW005,Brewkowski
+BKW006,Brewkowski
+BKW007,Brewkowski
+NER001,Nerdbrewing
+NER002,Nerdbrewing
+NER003,Nerdbrewing
+NER004,Nerdbrewing
+NER005,Nerdbrewing
+HYL006,"Hyllie Bryggeri"
+HYL007,"Hyllie Bryggeri"
+HYL008,"Hyllie Bryggeri"
+HYL009,"Hyllie Bryggeri"
+HYL010,"Hyllie Bryggeri"
+TEG001,"Tegelbrukets Bryggeri"
+TEG002,"Tegelbrukets Bryggeri"
+HYL011,"Hyllie Bryggeri"
+BWG022,Brewgineers
+COH001,"C/O Hops"
+COH002,"C/O Hops"
+BWG023,Brewgineers
+PIN009,"The Pine Ridge Brewery"
+PIN010,"The Pine Ridge Brewery"
+THS001,"This Is How."
+THS002,"This Is How."
+THS003,"This Is How."
+PIN011,"The Pine Ridge Brewery"
+PIN012,"The Pine Ridge Brewery"
+THS004,"This Is How."
+THS005,"This Is How."
+SIG015,"Sigtuna Brygghus"
+BWG024,Brewgineers
+BWG025,Brewgineers
+PIN013,"The Pine Ridge Brewery"
+COH003,"C/O Hops"
+COH004,"C/O Hops"
